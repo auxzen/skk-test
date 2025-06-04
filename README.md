@@ -1,6 +1,10 @@
 # INFORMASI REPOSITORY
 Repository ini di buat untuk keperluan test SKK-MIGAS sebagai posisi programmer
 
+# Stack technolgy yang digunakan 
+- Go language
+- PostgreSQL
+
 ### | Pertanyaan 1
 Buatlah algoritma untuk menampilkan angka 1 s/d n, dengan ketentuan kelipatan 3 diganti "OK", kelipatan 4 diganti "YES", kelipatan 3 & 4 diganti "OKYES"
 
